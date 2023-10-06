@@ -1,6 +1,8 @@
 # AnswerTemplate
 Шаблон репозитория для отправки заданий
 
+> [Скринкасты](https://studio.youtube.com/playlist/PLbQ9NRKEG-c0vHKOmTHOxq0MqpK1ONNjt/videos) по работе с github
+
 ## Создание репозитория
 1. Сделать себе репозиторий использую данный шаблон.  
   Для этого необходимо нажать кнопку "Use this template".  
